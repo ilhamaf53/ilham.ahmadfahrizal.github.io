@@ -1,0 +1,24 @@
+https://kursusvmlepkom.gunadarma.ac.id
+
+cek jadwal:
+https://vm.lepkom.gunadarma.ac.id/jadwal/
+
+Waktu pelaksanaan 24-28 Agustus 2020.
+
+senin-kamis 2 pertemuan, jumat ujian.
+jam pengerjaan 07.30 - 18.30 WIB. Batas upload jam 18.00 WIB.
+Fitur char akan aktif senin-jumat pukul 07.30 - 18.00 WIB.
+
+ujian untuk tingkat 3 ada ujian praktek, tidak hanya teori.
+setiap hari senin - kamis mengerjakan activity tergantung banyaknya activity pada hari itu, 
+2 pretest dan 2 post test
+
+post test 15 durasi menit.
+
+tidak ada pengulangan pertemuan. auto delete jika tertinggal.
+Daftar nama praktikan delete akan di posting pada forum di akun kursus masing-masing.
+jika di delete tidak bisa mengerjakan activity, pretest dan post test.
+Intinya jangan lupa untuk mengerjakan semua tugas, setiap hari  dari tanggal 24 - 28 Agustus
+senin - kamis, jumat ujian.
+
+kamis 13 Agustus 2020, ada Sosialiasi untuk Installasi di Room 2.
